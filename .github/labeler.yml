@@ -1,2 +1,2 @@
-label1y:
-- *
+label1:
+- any: ['example1/*']
